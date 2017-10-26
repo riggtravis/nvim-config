@@ -1,0 +1,2 @@
+100
+['/home/riggt/.config/nvim/dein/repos/github.com/Shougo/dein.vim', 'Raimondi/delimitMate', 'Shougo/denite.nvim', 'Shougo/deoplete.nvim', 'iCyMind/NeoSolarized', 'jelera/vim-javascript-syntax', 'mbbill/undotree', 'mhinz/vim-signify', 'ntpeters/vim-better-whitespace', 'tpope/vim-fugitive', 'tpope/vim-vinegar', 'vim-airline/vim-airline', 'vim-airline/vim-airline-themes']

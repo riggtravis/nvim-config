@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/riggt/Documents/SeniorProjects/glacialus/javascript'
+let g:netrw_dirhist_2='/home/riggt/Documents/SeniorProjects/glacialus/javascript/tests'
+let g:netrw_dirhist_3='/home/riggt/.config/base16-shell'
+let g:netrw_dirhist_4='/home/riggt/Documents/SeniorProjects/glacialus/javascript/tests'
+let g:netrw_dirhist_5='/home/riggt/Documents/SeniorProjects/riggt/themes/Hacker/source'
+let g:netrw_dirhist_6='/home/riggt/Documents/SeniorProjects/glacialus/javascript'
+let g:netrw_dirhist_7='/home/riggt/.config/bspwm'
+let g:netrw_dirhist_8='/home/riggt/.config/i3status'
